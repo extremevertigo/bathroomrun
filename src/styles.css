@@ -1,0 +1,26 @@
+body {
+	background-color: #ffffff;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+frame {
+	margin: 0;
+	padding: 0;
+}
+#content {
+    margin: 0 auto;
+}
+
+canvas {
+	width: 100%;
+	height: 100%;
+}
+
+@font-face {
+	font-family: 'pixel_maz';
+	src: url(assets/font/pixel-maz.otf);
+}

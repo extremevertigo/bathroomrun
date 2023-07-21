@@ -1,0 +1,25 @@
+{
+    "Game": [
+		{ "id": "citySS", "src": "assets/spritesheets/city-ss.json", "type": "spritesheet" },
+		{ "id": "gameSS", "src": "assets/spritesheets/game-ss.json", "type": "spritesheet" },
+		{ "id": "animationsSS", "src": "assets/spritesheets/animations-ss.json", "type": "spritesheet" },
+		{ "id": "bathroomrun", "src": "assets/audio/bathroomrun.mp3"},
+		{ "id": "buttonClick", "src": "assets/audio/button_click.mp3"},
+		{ "id": "fart1", "src": "assets/audio/fart1.mp3"},
+		{ "id": "fart2", "src": "assets/audio/fart2.mp3"},
+		{ "id": "fart3", "src": "assets/audio/fart3.mp3"},
+		{ "id": "fart4", "src": "assets/audio/fart4.mp3"},
+		{ "id": "fart5", "src": "assets/audio/fart5.mp3"},
+		{ "id": "shortfart", "src": "assets/audio/shortfart.mp3"},
+		{ "id": "shortfart1", "src": "assets/audio/shortfart1.mp3"},
+		{ "id": "shortsqueezer", "src": "assets/audio/shortsqueezer.mp3"},
+		{ "id": "coin", "src": "assets/audio/coin.mp3"},
+		{ "id": "powerup", "src": "assets/audio/powerup.mp3"},
+		{ "id": "applause", "src": "assets/audio/applause.mp3"},
+		{ "id": "cat-attack", "src": "assets/audio/cat-attack.mp3"},
+		{ "id": "cat-attack-1", "src": "assets/audio/cat-attack-1.mp3"},
+		{ "id": "cat-attack-2", "src": "assets/audio/cat-attack-2.mp3"},
+		{ "id": "outhouse-die", "src": "assets/audio/outhouse-die.mp3"}
+
+    ]
+}
